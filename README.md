@@ -39,7 +39,7 @@ Each of the next _**k**_ lines contains two space-separated integers _**r[i]**_ 
 
 **Output Format**
 
-Print the number of squares that the queen can attack from position __*(r<sub>q</sub>, c<sub>q</sub>)**_.
+Print the number of squares that the queen can attack from position _**(r<sub>q</sub>, c<sub>q</sub>)**_.
 
 **Sample Input 0**
 
@@ -85,4 +85,4 @@ The queen is standing at position _**(4,3)**_ on a _**5 x 5**_ chessboard with _
 
 **Explanation 2**
 
-Since there is only one square, and the queen is on it, the queen can move 0 squares.
+Since there is only one square, and the queen is on it, the queen can move _**0**_ squares.
